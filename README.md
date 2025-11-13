@@ -20,6 +20,7 @@ It focuses on providing a simple, modern, and user-friendly interface for bookin
 
 * **Design Tool:** Figma / Adobe XD / Sketch
 * **Resolution:** 390 × 1323 px
+* **Developped by Kotlin / xml
 
 ---
 
